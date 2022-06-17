@@ -49,7 +49,7 @@ I’m a Learner | Engineering Graduate | Android and Web application developer |
 
 </td><td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niththish&hide_border=true&layout=compact" align="left" style="width: 95%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niththish&hide_border=true&layout=compact" align="left" style="width: 98%" />
 
 </td></tr></table>  
 
