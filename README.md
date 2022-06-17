@@ -5,8 +5,6 @@
 
 ### Glad to see you here!  
 I’m a Learner | Engineering Graduate | Android and Web application developer | MEAN-stack developer  
-  
-
 <br/>  
 
 ## Languages and Tools  
