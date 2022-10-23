@@ -4,7 +4,7 @@
 
 
 ### Glad to see you here!  
-I’m a Learner | Engineering Graduate | Android and Web application developer | MEAN-stack developer  
+I’m a Learner | Engineering Graduate | Android and Web application developer | MEAN-stack developer | MERN-stack developer
 <br/>  
 
 ## Languages and Tools  
