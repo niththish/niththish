@@ -2,9 +2,10 @@
   
 ### Glad to see you here!
 I’m a Learner | Engineering Graduate | Android and Web application developer | MEAN-stack developer | MERN-stack developer
-#### portfolio site - [Niththish](https://niththish-profile.netlify.app)
-#### linkedIn profile - [Niththish](https://www.linkedin.com/in/niththish/)
+
 ![](https://komarev.com/ghpvc/?username=niththish&color=FF560D&style=flat-square)
+- #### portfolio site - [`Niththish`](https://niththish-profile.netlify.app)
+- #### linkedIn profile - [`Niththish`](https://www.linkedin.com/in/niththish/)
 ***
 
 ### ⚡ `PROFILE DETAILS`
