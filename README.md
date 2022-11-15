@@ -1,9 +1,10 @@
 # Hello👋, I'm NITHTHISH!  
   
-### Glad to see you here!  
+### Glad to see you here!
 I’m a Learner | Engineering Graduate | Android and Web application developer | MEAN-stack developer | MERN-stack developer
 #### portfolio site - [Niththish](https://niththish-profile.netlify.app)
 #### linkedIn profile - [Niththish](https://www.linkedin.com/in/niththish/)
+![](https://komarev.com/ghpvc/?username=niththish&color=FF560D&style=flat-square)
 ***
 
 ### ⚡ `PROFILE DETAILS`
@@ -13,8 +14,8 @@ I’m a Learner | Engineering Graduate | Android and Web application developer |
 
 ### ⚡`STATS`
 <div>
-  <img  src="https://github-readme-stats.vercel.app/api?username=niththish&hide_border=true&count_private=true&show_icons=true&theme=radical"  alt="niththish" align = "center" height="200rem"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niththish&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="niththish" align = "center" height="200rem"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=niththish&hide_border=true&count_private=true&show_icons=true&theme=radical"  alt="niththish" align = "center" height="150rem"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niththish&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="niththish" align = "center" height="150rem"/>
 </div>
 
 ***
