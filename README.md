@@ -9,14 +9,14 @@ I’m a Learner | Engineering Graduate | Android and Web application developer |
 ***
 
 ### ⚡ `PROFILE DETAILS`
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niththish&theme=github_dark" alt="fahimers" align = "center"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niththish&theme=radical" alt="fahimers" align = "center"/>
 
 ***
 
 ### ⚡`STATS`
 <div>
-  <img  src="https://github-readme-stats.vercel.app/api?username=niththish&hide_border=true&count_private=true&show_icons=true&theme=radical"  alt="niththish" align = "center" height="150rem"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niththish&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="niththish" align = "center" height="150rem"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niththish&show_icons=true&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niththish&layout=compact&theme=radical"/>
 </div>
 
 ***
