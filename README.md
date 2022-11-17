@@ -30,8 +30,3 @@ I’m a Learner | Engineering Graduate | Android and Web application developer |
 <img alt="niththish Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=niththish&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
 
 ***
-
- ### 🏆ACHIEVEMENTS
-<img src="https://github-profile-trophy.vercel.app/?username=niththish&margin-w=5&theme=radical" alt="niththish" />
-
-***
